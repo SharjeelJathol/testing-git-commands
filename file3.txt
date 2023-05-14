@@ -1,2 +1,3 @@
 new file
 Add one new line in file3
+changes made after the stashed state
