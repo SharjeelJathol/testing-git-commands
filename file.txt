@@ -1,2 +1,3 @@
 first file
 command line commit description
+Test the merging after
